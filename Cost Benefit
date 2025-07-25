@@ -1,0 +1,5 @@
+Blob Storage (Cool tier) is ~10x cheaper than Cosmos DB storage.
+
+RU/s usage in Cosmos DB is significantly reduced.
+
+No downtime or API refactoring needed.

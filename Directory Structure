@@ -1,0 +1,10 @@
+azure-cost-optimization-billing-archival/
+├── README.md
+├── chatgpt_conversation.md
+├── requirements.txt
+├── docs/
+│   └── architecture-diagram.png  ← will guide you
+├── archive-function/
+│   └── archive_old_records.py
+├── api-logic/
+│   └── get_record.py
